@@ -3,7 +3,7 @@
 Since 2020, Caesar.jl has native support for ROS via the [RobotOS.jl](https://github.com/jdlangs/RobotOS.jl) package.  
 
 !!! warning
-    Note that ROS neotic has switched to Python3 exclusively, and at the time of writing this page we were usinng Python2.7.  See the ROS Wiki here: https://wiki.ros.org/UsingPython3
+    Note that ROS neotic has switched to Python3 exclusively, and at the time of writing this page we were using Python2.7.  See the ROS Wiki here: https://wiki.ros.org/UsingPython3
 
 !!! note
     See ongoing RobotOS.jl discussion on building a direct C++ interface and skipping PyCall.jl entirely: https://github.com/jdlangs/RobotOS.jl/issues/59
